@@ -1,0 +1,6 @@
+# General
+requests
+python-dotenv
+pandas
+numpy
+statistics
