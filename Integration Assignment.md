@@ -9,9 +9,9 @@ should omit that result while doing calculations. You may choose a deviation cri
 
 The API that are to be used are given below:
 - Binance
-- CoinbasePro
 - CoinGecko
 - CoinMarketCap
+- Kraken
 - OKX
 
 ### Input Requirements:
