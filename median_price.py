@@ -228,10 +228,10 @@ def main():
     
     print("".center(75, "="))
     print("".center(75, "="))
-    print(" This program will calculate the median price of symbols pairs ".center(75, " "))
-    print(" We will receive a list of symbol pairs ".center(75, " "))
+    print(" This application will calculate the median price of symbols pairs ".center(75, " "))
+    print(" It will receive a list of symbol pairs ".center(75, " "))
     print(" For example: BTC/USD eth/usdt Xrp/Usd ".center(75, " "))
-    print(" Then return a dict of median price ".center(75, " "))
+    print(" Then returns a dict of median price of symbols pair ".center(75, " "))
     print("".center(75, "="))
     print("".center(75, "="))
     print("")
